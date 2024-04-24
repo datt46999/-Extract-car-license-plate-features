@@ -10,9 +10,13 @@ Description: Using opencv library in python to handle and highlight the bright s
 Library we need:cv2, numpy, imutils.
 
 **Setting and run:**
+
 1 We need setup python enviroment.
+
 2 Download all folder.
+
 3 Open and run file license_plate.py
+
 
 
 **Result**
