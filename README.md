@@ -1,6 +1,7 @@
 **Overview**
 
 Description: Using opencv library in python to handle and highlight the bright spot in the car license plate. Then using imutils to extract contours returned by cv2.findContours() and read text through pytesseract library.
+
  **Set up**
 
  **Environment:**
