@@ -14,10 +14,10 @@ Framework: OpenCV, numpy.
 
 https://drive.google.com/drive/folders/1CfCoKBDC1iDFldQkjYtrbWicv3BHB3_t?usp=sharing
 
-# Node 
+## Node 
 You should setting location of folder before running the code .
 
-**Setting and run:**
+## Setting and run:
 
 1 We need setup python enviroment.
 
@@ -27,7 +27,7 @@ You should setting location of folder before running the code .
 
 
 
-**Result**
+# Result
 ![image](https://github.com/datt46999/-Extract-car-license-plate-features/assets/125117718/d3cda3f7-fc23-433c-be52-7a877e4bc8f2)
 
 Vehicle license plate will show in your terminal and rewrite in file recognized.txt
