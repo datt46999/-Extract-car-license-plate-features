@@ -4,11 +4,18 @@ Description: Using opencv library in python to handle and highlight the bright s
 
  **Set up**
 
- **Environment:**
- Fisrt we need dowload foder Tesseract-OCR from link:
- https://drive.google.com/drive/folders/1CfCoKBDC1iDFldQkjYtrbWicv3BHB3_t?usp=sharing
- 
-Library we need:cv2, numpy, imutils.
+## Environment:
+
+Language: Python.
+
+Framework: OpenCV, numpy.
+
+# Fisrt we need dowload foder Tesseract-OCR from link:
+
+https://drive.google.com/drive/folders/1CfCoKBDC1iDFldQkjYtrbWicv3BHB3_t?usp=sharing
+
+# Node 
+You should setting location of folder before running the code .
 
 **Setting and run:**
 
